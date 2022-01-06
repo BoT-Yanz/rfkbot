@@ -12,8 +12,8 @@
 // and thanks you to who support my Bot
 
 gc1 = 'https://chat.whatsapp.com/KghOSWVL9aMDc4ZzCgOSoX'
-gc2 = ''
-gc3 = ''
+gc2 = 'https://chat.whatsapp.com/HA176m6iKHzIM0ESfzUprQ'
+gc3 = 'join Gc ke 1,2 yaa kak<3'
 global.linkGC = ['https://chat.whatsapp.com/KghOSWVL9aMDc4ZzCgOSoX', 'https://chat.whatsap'] // ganti jadi group lu
 global.owner = ['6281395861695'] // Put your number here //owner eval
 global.kontak = ['6281395861695','0'] //Ketika ada yang ngetik #owner
