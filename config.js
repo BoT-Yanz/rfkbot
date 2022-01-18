@@ -59,8 +59,8 @@ global.author = 'Dapp' // ganti aja
 //yyy
 bc = 'Dapaa' //YANZZxBOTZ Broadcast
 footer = '\n©YANZZxBOTZ'
-namabot = 'YANZZxBOTZ'
-namalu = 'DHAVA R.R'
+namabot = 'YANZ x BOTZ'
+namalu = 'DHAVA R.'
 
 
 // 
