@@ -15,10 +15,10 @@ gc1 = 'https://chat.whatsapp.com/KghOSWVL9aMDc4ZzCgOSoX'
 gc2 = 'https://chat.whatsapp.com/HA176m6iKHzIM0ESfzUprQ'
 gc3 = 'join Gc ke 1,2 nyaa kak<3'
 global.linkGC = ['https://chat.whatsapp.com/KghOSWVL9aMDc4ZzCgOSoX', 'https://chat.whatsap'] // ganti jadi group lu
-global.owner = ['19205365323'] // Put your number here //owner eval
-global.kontak = ['19205365323','0'] //Ketika ada yang ngetik #owner
+global.owner = ['16065179419'] // Put your number here //owner eval
+global.kontak = ['16065179419','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['19205365323'] // Premium user has unlimited limit
+global.prems = ['16065179419'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -46,9 +46,9 @@ xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
-kasihcaption = `Nih kak`
+kasihcaption = `_*Nih kak_-*_`
 namakontak1 = 'Yanz BoT'
-namakontak2 = 'Dhavaa R.'
+namakontak2 = 'Dhavaa...'
 
 //kasihcaption = `Nih Kak nomer owner ku ^_^`
 
@@ -57,10 +57,10 @@ global.packname = 'By Yanz BOTZ' // ganti aja
 global.author = 'Dapp' // ganti aja
 
 //yyy
-bc = 'Dapaa' //YANZZxBOTZ Broadcast
-footer = '\n©YANZZxBOTZ'
+bc = 'Dapaa' //YANZz x BOTZ Broadcast
+footer = '\n©YANZz x BOTZ'
 namabot = 'YANZ x BOTZ'
-namalu = 'DHAVA R.'
+namalu = 'DHAVA...'
 
 
 // 
